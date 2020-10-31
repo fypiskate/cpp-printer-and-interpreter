@@ -1,0 +1,60 @@
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/src/Grammar.hs:
+  hash: ac9d81a93d4115e1983be626422380299209a86c766475235c1d7713038fb6c0
+  size: 2659
+  modtime: 1604168734
+/home/katrin/.stack/programs/x86_64-linux/ghc-8.8.4/lib/ghc-8.8.4/include/ghcplatform.h:
+  hash: 6f30e9ad0022d26323aca04816a74e38a04af174747fe91efa77324c78b0d73d
+  size: 913
+  modtime: 1602702930
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/src/Printer.hs:
+  hash: 191fe8b433108b7520d874b9ee3f14087e04cfee227788aea2e9fca235c932a5
+  size: 5532
+  modtime: 1604168783
+/home/katrin/.stack/programs/x86_64-linux/ghc-8.8.4/lib/ghc-8.8.4/include/ghcconfig.h:
+  hash: 03f4611ae97decc9e8c76c212bf7886d003b29d5c62b43fee6623a799f6e5fdf
+  size: 64
+  modtime: 1602702930
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/src/Interpreter.hs:
+  hash: ccc1ff16d54db52ad6a2180e2d4f1d24e383cc9174c8c6564123eee2c804b847
+  size: 14977
+  modtime: 1604168575
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/cpp-printer-and-interpreter.cabal:
+  hash: d03d2e197f73d1170a1ecad0a76a9e37c616dfffb46837df9aa973ff082a0f84
+  size: 1854
+  modtime: 1604170389
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/package.yaml:
+  hash: c4e6adc4396d495781ad1dc4c70c271a71d28ad4afaf466590e2f9ea1e7af958
+  size: 1313
+  modtime: 1604129751
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/src/Parsing/Lexer.x:
+  hash: fa660db901c57ae9d459df2608eb110026a3d737bda345e59ec1a66532090abd
+  size: 2564
+  modtime: 1604161127
+/home/katrin/.stack/programs/x86_64-linux/ghc-8.8.4/lib/ghc-8.8.4/include/ghcautoconf.h:
+  hash: aff2d758ca17274d73f2bd3b4bba04b179d16891f357b7ee0ddb8a92d63aff1f
+  size: 14716
+  modtime: 1602702930
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/src/Parsing/Parser.y:
+  hash: cfbe583f67caf862e88e2dcccd7cd79fed1e0ddd89c65b18ab8f0b8421a8df22
+  size: 3906
+  modtime: 1604146668
+/usr/include/stdc-predef.h:
+  hash: ee35c95f8e09d071278e05e755a1bd41fbbf4517374d9464beabb1b16c1b58e9
+  size: 2363
+  modtime: 1591291526
+/home/katrin/.stack/programs/x86_64-linux/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+  size: 524
+  modtime: 1602702930
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/README.md:
+  hash: cb513ed6c6aa0a608c45807ff24074dee9352fb0550f623284373b7553bc16eb
+  size: 30
+  modtime: 1604129751
+/home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/ChangeLog.md:
+  hash: b310451a959809029bc589b3d80dfe3e74050678b1f48079d036f534fc8ee38c
+  size: 67
+  modtime: 1604129751
+? /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/.stack-work/dist/x86_64-linux/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 89c9e3c63dc6bcb94bafcf39d020a31f847984b4f28e1ea574d8d881d72e7a95
+  size: 6430
+  modtime: 1604170598
