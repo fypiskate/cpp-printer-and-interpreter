@@ -19,9 +19,9 @@
   size: 14977
   modtime: 1604168575
 /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/cpp-printer-and-interpreter.cabal:
-  hash: d03d2e197f73d1170a1ecad0a76a9e37c616dfffb46837df9aa973ff082a0f84
-  size: 1854
-  modtime: 1604170389
+  hash: 74ed3429577f8388fdc49b2f319cd87d566f93eaf7fcda8bcb4aff548d8cc80e
+  size: 1899
+  modtime: 1604174506
 /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/package.yaml:
   hash: c4e6adc4396d495781ad1dc4c70c271a71d28ad4afaf466590e2f9ea1e7af958
   size: 1313
@@ -47,14 +47,10 @@
   size: 524
   modtime: 1602702930
 /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/README.md:
-  hash: cb513ed6c6aa0a608c45807ff24074dee9352fb0550f623284373b7553bc16eb
-  size: 30
-  modtime: 1604129751
+  hash: 51b312e6cbdfa484ed79aa5c44819bc2390056dafd857efd7095784d4aff0205
+  size: 188
+  modtime: 1604171756
 /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/ChangeLog.md:
   hash: b310451a959809029bc589b3d80dfe3e74050678b1f48079d036f534fc8ee38c
   size: 67
   modtime: 1604129751
-? /home/katrin/university/fp/summer-task/cpp-printer-and-interpreter/.stack-work/dist/x86_64-linux/Cabal-3.0.1.0/build/autogen/cabal_macros.h
-: hash: 89c9e3c63dc6bcb94bafcf39d020a31f847984b4f28e1ea574d8d881d72e7a95
-  size: 6430
-  modtime: 1604170598

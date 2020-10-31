@@ -1,18 +1,13 @@
-int binPow(int a1) {
-  if (a1 > 32) {
+int binPow(int a) {
+  if (a > 32) {
     return 0;
   }
   int b = 1;
-  while (a1 > 0) {
+  while (a > 0) {
     b = b * 2;
-    a1 = a1 - 1;
+    a = a - 1;
   }
   return b;
-}
-
-int simplePrinter(string a2) {
-  cout << a2;
-  return 0;
 }
 
 double multiply (double a, double b) {
@@ -20,21 +15,24 @@ double multiply (double a, double b) {
 }
 
 int main() {
+  cout << "Write your name and some int";
   int a;
   string name;
-  cin >> a >> name;
-  cout << binPow(a) ;
-  string a2 = "Hello ";
-  cout << a2 << name;
-  double b = 10.0;
+  cin >> name >> a;
+  string hello = "Hello, ";
+  cout << hello << name << "!";
+  cout << binPow(a);
+  
+  double b = 10.123;
   double c = b + b;
   cout << multiply(b, c);
-  bool j = true;
+
+  bool cond = true;
   for (int i = 0; i < a; i = i +     1){
-      if (j) {
+      if (cond) {
           cout << i;
       } else {
-          cout << "j is false";
+          cout << "cond is false";
       }
   }
   return 0;
